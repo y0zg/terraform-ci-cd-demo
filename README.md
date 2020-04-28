@@ -1,5 +1,7 @@
 # Terraform CI CD Demo
 
+https://www.hashicorp.com/resources/yes-one-can-simply-terraform-their-app-to-azure-easily/
+
 <img src="https://jungoterraform.blob.core.windows.net/demo/phippyandfriends.png" width="400" height="400" alt="PhippyandFriends"/><img src="https://jungoterraform.blob.core.windows.net/demo/Terraform-AzureDevOps-KeyVault.png" width="400" height="400" alt="TerraformCICD"/>
 
 A demo for a complete Terraform CI-CD Process using Azure DevOps Pipelines, deploying infrastructure and application to Azure
